@@ -5,10 +5,10 @@ object Utilities {
    * mengkonfigurasikan kredensial twitter untuk sistem streaming
    */
   def setupTwitter()={
-    val consumerKey="DjBtGDEVWtU29OcMieDUN8L1r"
-    val consumerSecret="tVUGYm5j6PzrsOaMO0kVHHajOxlwwDxiWFPbbTLvkowcwfXQ7P"
-    val accessToken="3321061040-OXVrtcLVilqBQUIMDnvlMs0wh4bO2MWRdthcAA9"
-    val accessTokenSecret="E86TWY1XNoVpecpld15lN6hEXIGQjeTF5FBJdQK36mlhg"
+    val consumerKey="xxxxxxxxxxxxxxxx"
+    val consumerSecret="xxxxxxxxxxxxxxxxxxxxxxxxx"
+    val accessToken="xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    val accessTokenSecret="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
     System.setProperty("twitter4j.oauth.consumerKey",consumerKey)
     System.setProperty("twitter4j.oauth.consumerSecret",consumerSecret)
